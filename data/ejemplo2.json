@@ -1,0 +1,32 @@
+{
+  "usuario": {
+    "nombre": "Juan",
+    "edad": 30,
+    "direcciones": [
+      {
+        "calle": "Calle Principal 123",
+        "ciudad": "Ciudad A",
+        "id": 1
+      },
+      {
+        "calle": "Avenida Secundaria 456",
+        "ciudad": "Ciudad B",
+        "id": 2
+      }
+    ],
+    "compras": [
+      {
+        "producto": "Libro",
+        "precio": 20,
+        "fecha": "2020-01-01",
+        "id": 1
+      },
+      {
+        "producto": "Película",
+        "precio": 15,
+        "fecha": "2020-01-02",
+        "id": 2
+      }
+    ]
+  }
+}

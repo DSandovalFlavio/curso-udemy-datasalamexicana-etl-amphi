@@ -1,0 +1,15 @@
+{
+  "nombre": "Tienda de Electrónica",
+  "productos": [
+    {
+      "nombre_prod": "Laptop",
+      "precio": 800,
+      "marca": "Marca A"
+    },
+    {
+      "nombre_prod": "Teléfono",
+      "precio": 500,
+      "marca": "Marca B"
+    }
+  ]
+}

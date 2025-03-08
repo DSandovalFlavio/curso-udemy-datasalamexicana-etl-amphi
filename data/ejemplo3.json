@@ -1,0 +1,33 @@
+{
+    "escuela": {
+      "nombre": "Escuela Primaria",
+      "grados": [
+        {
+          "nombre": "Primer Grado",
+          "alumnos": [
+            {
+              "nombre": "Ana",
+              "edad": 6
+            },
+            {
+              "nombre": "Pedro",
+              "edad": 7
+            }
+          ]
+        },
+        {
+          "nombre": "Segundo Grado",
+          "alumnos": [
+            {
+              "nombre": "María",
+              "edad": 7
+            },
+            {
+              "nombre": "Luis",
+              "edad": 8
+            }
+          ]
+        }
+      ]
+    }
+  }

@@ -1,0 +1,92 @@
+idx,Age,Gender,Location,CourseName,CourseDuration,CourseCompletionStatus,TotalCourseSessions,AverageSessionLength,EngagementScore,SatisfactionRating
+0,25,Male,California,Introduction to Programming,45,Yes,10,90,8,4
+1,30,Female,New York,Web Development Basics,30,Yes,12,105,7,5
+2,22,Other,Texas,Advanced Java,60,No,5,60,5,3
+3,28,Male,Florida,Data Structures,45,Yes,15,120,9,5
+4,26,Female,Illinois,Full Stack Development,90,Yes,20,180,7,4
+5,29,Female,New Jersey,Cybersecurity Fundamentals,30,Yes,12,85,6,3
+6,23,Male,Ohio,Cybersecurity Fundamentals,30,Yes,10,95,6,4
+7,34,Male,Ohio,Cloud Computing Fundamentals,30,Yes,10,110,8,4
+8,29,Female,Ohio,Cybersecurity Fundamentals,45,No,8,75,6,3
+9,29,Female,Washington,Cybersecurity Fundamentals,30,No,3,35,6,3
+10,23,Male,Ohio,Cybersecurity Fundamentals,30,Yes,10,95,9,4
+11,23,Other,Arizona,Cybersecurity Fundamentals,30,Yes,12,95,7,4
+12,23,Other,Arizona,Cybersecurity Fundamentals,30,Yes,12,95,7,4
+13,35,Female,Washington,Cybersecurity Fundamentals,30,Yes,10,95,9,4
+15,35,Male,Oregon,Cloud Computing Essentials,45,Yes,14,110,8,4
+16,29,Female,Michigan,Mobile App Development,45,Yes,12,110,8,5
+17,29,Female,Massachusetts,Cybersecurity Essentials,45,Yes,12,120,9,5
+18,27,Male,New Jersey,Cloud Computing Essentials,60,Yes,18,95,9,4
+19,33,Male,Oregon,Mobile App Development,30,Yes,11,70,9,5
+20,29,Female,Michigan,Mobile App Development,45,Yes,12,110,8,5
+21,32,Female,Washington,Server Management,60,No,3,60,4,2
+22,32,Female,Washington,Server Management,60,No,3,60,4,2
+23,42,Male,California,Database Management,45,No,8,70,6,3
+25,24,Other,Washington,Machine Learning 101,45,No,3,30,4,3
+26,34,Other,Washington,Machine Learning 101,60,No,3,45,4,2
+27,23,Other,Georgia,User Interface Design,45,No,5,50,4,3
+28,32,Other,Virginia,Mobile App Development,45,Yes,14,110,8,4
+29,41,Other,California,Database Management,45,Yes,13,85,8,4
+30,34,Other,Washington,Machine Learning Basics,40,No,3,45,6,3
+31,29,Male,New Jersey,Game Development,45,Yes,10,110,9,5
+32,29,Male,New Jersey,Game Development,45,Yes,10,110,9,5
+33,29,Female,Texas,Artificial Intelligence,120,Yes,30,150,8,5
+35,31,Female,Michigan,Full Stack Web Development,90,Yes,22,190,9,5
+36,21,Male,Nevada,Computer Science Concepts,45,Yes,15,130,9,4
+37,31,Male,California,Internet of Things (IoT),60,Yes,15,135,8,4
+38,24,Female,Pennsylvania,Game Development 101,30,No,5,50,5,3
+39,19,Female,New York,Full Stack Web Development,60,Yes,22,150,9,5
+40,19,Male,Nevada,Game Design 101,30,Yes,8,80,7,4
+41,41,Male,Michigan,Mobile App Development,90,Yes,25,135,8,4
+42,41,Male,Michigan,Mobile App Development,90,Yes,25,135,8,4
+43,24,Male,New York,Mobile App Development,60,Yes,18,125,7,4
+45,27,Male,Arizona,Mobile App Development,30,Yes,10,80,7,4
+46,27,Female,New Jersey,Cloud Computing Essentials,30,Yes,11,100,7,4
+47,27,Female,New York,Machine Learning for Beginners,45,Yes,14,115,9,5
+48,21,Male,Michigan,Data Science for Beginners,30,Yes,10,85,7,5
+49,27,Male,Illinois,Machine Learning,45,No,5,50,5,3
+50,27,Female,Utah,Network Security,60,Yes,18,150,8,4
+51,27,Female,California,Backend Web Development,45,No,7,80,6,3
+52,35,Female,California,Backend Web Development,45,No,7,80,3,3
+53,27,Female,Florida,Cloud Computing,45,No,12,60,5,3
+55,23,Other,Florida,Computer Vision and AI,60,No,5,50,6,2
+56,32,Other,Pennsylvania,Internet of Things (IoT) Fundamentals,45,No,5,50,3,3
+57,35,Other,Texas,Full Stack Java,60,Yes,20,180,7,4
+58,23,Female,Arizona,UI/UX Design,45,No,7,80,6,4
+59,35,Female,Texas,Blockchain and Cryptocurrency,60,No,3,60,4,2
+60,32,Other,California,Big Data Analysis,50,Yes,16,130,7,3
+61,35,Male,Texas,Data Analytics,30,Yes,12,100,7,4
+62,27,Male,Texas,Data Analytics,30,Yes,12,100,6,3
+63,32,Other,Illinois,Game Development,90,Yes,22,190,9,5
+65,28,Female,California,Database Management,30,Yes,11,95,8,4
+66,24,Female,California,Cross-Platform Development,30,Yes,10,115,7,4
+67,28,Male,Florida,Salesforce CRM Training,30,Yes,11,100,8,3
+68,28,Other,Washington,Internet of Things,60,Yes,20,150,9,4
+69,23,Male,Florida,Cloud Computing,45,Yes,12,95,8,4
+70,21,Male,Colorado,User Experience Design,45,Yes,12,90,8,5
+71,24,Other,Illinois,UX/UI Design,45,Yes,11,90,8,4
+72,24,Female,Florida,Cloud Computing Basics,45,Yes,14,105,7,4
+73,37,Male,Washington,Python Programming,30,Yes,14,110,8,4
+75,33,Male,Nevada,DevOps Essentials,45,Yes,13,115,7,4
+76,31,Male,Florida,Cryptography Basics,30,Yes,13,95,8,5
+77,22,Female,Illinois,Sustainable Development Goals,30,Yes,10,90,7,5
+78,31,Male,Nevada,Big Data Analysis,90,Yes,25,190,8,5
+79,24,Other,Georgia,IoT and Smart Devices,30,Yes,8,80,7,4
+80,25,Female,Texas,Front-End Web Development,60,No,10,120,5,2
+81,28,Female,Florida,Cloud Computing,45,Yes,10,105,9,5
+82,21,Other,Nevada,Introduction to AI,30,Yes,9,80,6,3
+83,23,Female,Texas,Full Stack Development,90,No,10,130,6,3
+85,26,Female,Georgia,Python Programming for Beginners,45,Yes,14,100,6,3
+86,25,Other,Texas,Data Analysis for Programmers,45,Yes,14,125,7,4
+87,36,Other,Oregon,Agile Methodologies,30,No,6,75,6,2
+88,25,Female,Colorado,Serverless Architectures,45,Yes,13,100,7,4
+89,21,Female,Nevada,Graphic Design with Programming,20,Yes,6,55,8,4
+90,28,Other,New York,Software Testing Fundamentals,40,Yes,9,85,7,4
+91,33,Male,New York,Full Stack JavaScript,30,No,8,85,6,3
+92,38,Male,Oregon,Internet of Things (IoT),60,No,4,60,5,2
+93,31,Male,California,Software Engineering Principles,45,Yes,16,115,7,4
+95,25,Other,Texas,JavaScript for Web Development,30,Yes,9,90,8,4
+96,28,Female,Illinois,Full Stack with React,90,Yes,20,175,9,5
+97,24,Male,Utah,Mobile App Development,45,Yes,13,110,8,4
+98,22,Other,Florida,Machine Learning Fundamentals,30,Yes,11,95,9,5
+99,38,Male,New York,Big Data Analytics,30,No,4,55,6,3

@@ -1,0 +1,496 @@
+nombre_campania,region,clicks,impresiones,visualizaciones,costo
+back_to_school,Aguascalientes,11102,73923,166098,11974.33
+back_to_school,Baja California,5318,33535,155566,11421.58
+back_to_school,Baja California Sur,5702,50988,65590,3225.73
+back_to_school,Campeche,13284,33231,105868,16337.54
+back_to_school,Chiapas,2521,16943,55783,1783.5
+back_to_school,Chihuahua,11368,137999,175431,2508.0899999999997
+back_to_school,Coahuila,16511,70825,85036,9346.4
+back_to_school,Durango,12037,171384,230259,18338.21
+back_to_school,Guanajuato,12676,103210,208733,10317.58
+back_to_school,Guerrero,4643,37010,3780,9559.44
+back_to_school,Hidalgo,13655,79300,109710,12383.42
+back_to_school,Jalisco,9393,185447,203988,24801.91
+back_to_school,Mexico,8798,50293,172805,18720.239999999998
+back_to_school,Morelos,8009,201000,36779,18937.47
+back_to_school,Nuevo Leon,9735,158351,139644,9859.09
+back_to_school,Oaxaca,288,74861,72299,2724.56
+back_to_school,Queretaro,4668,96606,60491,5724.78
+back_to_school,Quintana Roo,8761,7980,99749,1722.03
+back_to_school,San Luis Potosi,6401,91981,51677,3284.19
+back_to_school,Sinaloa,1829,39168,85448,7750.51
+back_to_school,Sonora,14255,50544,106294,5954.91
+back_to_school,Tabasco,9268,61462,78013,4495.55
+back_to_school,Tamaulipas,9969,142887,106419,13741.01
+back_to_school,Tlaxcala,46646,322812,287022,26861.94
+back_to_school,Veracruz,17259,170081,67937,18521.56
+back_to_school,Yucatan,3141,106760,64235,4836.4400000000005
+back_to_school,Zacatecas,4620,60186,61919,8097.23
+birthday_discount,Aguascalientes,26319,156149,178943,23699.78
+birthday_discount,Baja California,19263,155953,225238,20075.47
+birthday_discount,Baja California Sur,1839,89787,13101,8766.35
+birthday_discount,Chiapas,7758,55601,90120,503.04
+birthday_discount,Chihuahua,4149,77353,56685,7954.49
+birthday_discount,Coahuila,3450,69980,92740,6929.0
+birthday_discount,Colima,3105,191460,102179,23604.78
+birthday_discount,Durango,8834,144646,23404,13974.6
+birthday_discount,Guerrero,12136,50190,142088,4036.6500000000005
+birthday_discount,Hidalgo,14515,175103,139787,9781.0
+birthday_discount,Jalisco,19708,276940,189000,22731.7
+birthday_discount,Mexico,3480,26825,25523,4890.19
+birthday_discount,Michoacan,7081,42998,77483,4730.77
+birthday_discount,Nayarit,8696,72511,55981,8708.63
+birthday_discount,Nuevo Leon,9952,105430,100401,6725.969999999999
+birthday_discount,Puebla,5290,257469,127409,16725.559999999998
+birthday_discount,San Luis Potosi,8233,47690,29923,8895.04
+birthday_discount,Sinaloa,8166,93638,95159,8250.55
+birthday_discount,Sonora,6655,97581,41791,7248.43
+birthday_discount,Tabasco,12831,37959,161646,12976.97
+birthday_discount,Tamaulipas,2332,81600,8957,9819.35
+birthday_discount,Tlaxcala,10133,87682,41342,16808.46
+birthday_discount,Veracruz,2437,68725,53674,2131.07
+birthday_discount,Yucatan,4338,40363,109053,14478.369999999999
+birthday_discount,Zacatecas,14580,179189,94104,14829.65
+customer_appreciation,Aguascalientes,5187,12724,38722,1409.27
+customer_appreciation,Baja California,2076,121204,181805,6291.12
+customer_appreciation,Baja California Sur,8575,91344,47420,3884.35
+customer_appreciation,Chiapas,9886,66539,64297,9124.14
+customer_appreciation,Chihuahua,10285,216728,186539,24772.59
+customer_appreciation,Coahuila,5701,14366,42065,2083.9
+customer_appreciation,Colima,9217,8618,52150,4580.67
+customer_appreciation,Durango,18866,122202,183847,16488.95
+customer_appreciation,Guanajuato,7888,99180,91980,1555.05
+customer_appreciation,Jalisco,9841,54107,100808,16119.140000000001
+customer_appreciation,Mexico,18757,167271,128556,21920.52
+customer_appreciation,Michoacan,17878,221091,232781,19681.21
+customer_appreciation,Morelos,1982,243386,147759,9997.81
+customer_appreciation,Nuevo Leon,30344,266138,241188,20189.21
+customer_appreciation,Oaxaca,10220,100738,170956,22346.43
+customer_appreciation,Queretaro,1543,46674,86897,8144.65
+customer_appreciation,Quintana Roo,4855,98049,49839,8084.96
+customer_appreciation,San Luis Potosi,4808,42302,99351,11113.48
+customer_appreciation,Sinaloa,3703,82290,10543,2903.58
+customer_appreciation,Sonora,9282,115466,72941,8651.41
+customer_appreciation,Tabasco,26431,137622,199939,29950.61
+customer_appreciation,Tamaulipas,7845,81426,102600,9475.23
+customer_appreciation,Veracruz,6649,137951,59407,9591.689999999999
+customer_appreciation,Zacatecas,8991,138031,124180,14338.51
+early_bird_discount,Baja California,7588,6773,48262,14337.619999999999
+early_bird_discount,Baja California Sur,7667,158332,93424,12881.57
+early_bird_discount,Chihuahua,12501,286727,141247,26860.440000000002
+early_bird_discount,Coahuila,15201,67796,134545,3804.6600000000003
+early_bird_discount,Durango,9899,137803,77235,18292.72
+early_bird_discount,Guanajuato,18438,143644,172758,18143.92
+early_bird_discount,Hidalgo,1740,32178,8839,9339.03
+early_bird_discount,Jalisco,6797,55798,83568,9762.45
+early_bird_discount,Mexico,6880,98211,67004,5965.63
+early_bird_discount,Michoacan,15073,184160,158759,6834.709999999999
+early_bird_discount,Morelos,13301,85134,47694,5487.66
+early_bird_discount,Nayarit,8858,134426,119279,14398.48
+early_bird_discount,Oaxaca,2035,59833,50480,820.05
+early_bird_discount,Puebla,6573,79718,25020,4889.65
+early_bird_discount,Queretaro,23146,227413,218316,12937.68
+early_bird_discount,Quintana Roo,7226,216640,180432,20640.67
+early_bird_discount,San Luis Potosi,6669,72188,170968,10270.95
+early_bird_discount,Sinaloa,7840,52410,73214,6244.6
+early_bird_discount,Sonora,7889,143251,33515,10302.99
+early_bird_discount,Tamaulipas,15317,192541,371951,20339.23
+early_bird_discount,Tlaxcala,8523,20874,70327,4835.6
+early_bird_discount,Veracruz,3561,82927,53026,6652.44
+early_bird_discount,Yucatan,1656,22439,61051,1840.85
+early_bird_discount,Zacatecas,6621,52654,7129,1576.12
+email_marketing,Aguascalientes,9169,97242,87651,9952.25
+email_marketing,Campeche,7530,46838,129218,5786.97
+email_marketing,Coahuila,8687,116318,123298,11167.61
+email_marketing,Durango,6505,158010,198195,13075.140000000001
+email_marketing,Hidalgo,17191,84259,42885,11866.810000000001
+email_marketing,Jalisco,5919,149321,76578,9776.880000000001
+email_marketing,Michoacan,4716,174509,103570,6693.99
+email_marketing,Morelos,2149,58491,86415,8847.34
+email_marketing,Nayarit,6768,135313,60346,12486.24
+email_marketing,Nuevo Leon,5427,8069,99136,5453.23
+email_marketing,Oaxaca,2414,5614,45925,5075.99
+email_marketing,Queretaro,8053,166160,154952,11875.55
+email_marketing,Quintana Roo,4971,72761,43158,12.19
+email_marketing,Sinaloa,5803,21066,77450,9253.64
+email_marketing,Sonora,3223,6435,68988,5402.53
+email_marketing,Tabasco,6505,52526,42419,7141.89
+email_marketing,Tamaulipas,12180,119047,116328,9911.810000000001
+email_marketing,Tlaxcala,13050,129334,154448,23266.86
+email_marketing,Veracruz,9327,219313,167575,13559.34
+end_of_season,Aguascalientes,8696,75999,66910,6125.91
+end_of_season,Baja California Sur,25263,137985,213551,15615.11
+end_of_season,Chiapas,1169,62714,83239,1858.55
+end_of_season,Coahuila,22697,134470,136330,5092.0199999999995
+end_of_season,Colima,8742,83600,26412,13691.16
+end_of_season,Guerrero,20782,90807,181708,23464.46
+end_of_season,Mexico,6145,47921,59043,4897.11
+end_of_season,Michoacan,15566,128046,122965,14020.46
+end_of_season,Morelos,5158,8924,63980,7207.79
+end_of_season,Nayarit,4848,44674,83272,3184.53
+end_of_season,Nuevo Leon,19814,124191,151039,11536.34
+end_of_season,Oaxaca,36351,266928,307929,17933.79
+end_of_season,Queretaro,26104,204348,248371,25512.34
+end_of_season,Quintana Roo,7060,53435,106104,6207.629999999999
+end_of_season,San Luis Potosi,4957,35310,63427,9123.52
+end_of_season,Sinaloa,12866,151187,113003,9200.189999999999
+end_of_season,Sonora,5713,158630,204668,14794.83
+end_of_season,Tabasco,8397,4988,65231,195.78
+end_of_season,Tamaulipas,16612,165211,196892,19438.51
+end_of_season,Yucatan,6128,27408,37643,8565.3
+end_of_season,Zacatecas,6191,14692,65883,13145.84
+fall_promo,Aguascalientes,12899,206608,116477,26168.22
+fall_promo,Baja California,12840,210189,184024,12519.849999999999
+fall_promo,Baja California Sur,2124,18880,172331,17596.199999999997
+fall_promo,Campeche,3071,18421,65964,9801.97
+fall_promo,Chiapas,22335,179045,252423,15456.899999999998
+fall_promo,Chihuahua,1882,36595,17852,3283.17
+fall_promo,Coahuila,17725,115025,130610,17415.120000000003
+fall_promo,Colima,13725,220515,161708,11445.46
+fall_promo,Durango,23316,189700,109074,10906.66
+fall_promo,Guerrero,5484,23557,22612,5952.98
+fall_promo,Hidalgo,7045,31030,15838,6034.13
+fall_promo,Jalisco,7048,44361,38883,8877.23
+fall_promo,Mexico,26361,257934,335304,18549.57
+fall_promo,Michoacan,10400,152263,162397,19406.66
+fall_promo,Morelos,1045,5611,73907,9933.68
+fall_promo,Nayarit,12246,123432,92519,9111.85
+fall_promo,Nuevo Leon,12355,93228,73007,14950.14
+fall_promo,Queretaro,11625,165305,142101,17142.62
+fall_promo,Quintana Roo,6139,10804,15656,5160.23
+fall_promo,San Luis Potosi,17336,90110,125438,8524.51
+fall_promo,Sinaloa,7288,56133,15694,942.1
+fall_promo,Sonora,6744,1706,40004,2410.52
+fall_promo,Tabasco,6654,95159,19970,9611.77
+fall_promo,Tamaulipas,18877,11989,38528,6493.92
+fall_promo,Tlaxcala,4025,13091,43208,4884.75
+fall_promo,Veracruz,20134,269874,316312,17067.46
+fall_promo,Yucatan,832,3648,39331,1593.83
+fall_promo,Zacatecas,5597,88006,58024,6743.21
+flash_sale,Aguascalientes,5315,11415,2379,3962.06
+flash_sale,Baja California,18701,253458,291669,20087.38
+flash_sale,Baja California Sur,11829,102887,57226,5136.34
+flash_sale,Campeche,13097,111740,104595,7761.9400000000005
+flash_sale,Chihuahua,13286,64209,98334,9714.210000000001
+flash_sale,Guerrero,12523,45240,74593,13667.98
+flash_sale,Hidalgo,4990,39560,95656,4037.35
+flash_sale,Jalisco,6100,7918,13591,4912.76
+flash_sale,Mexico,17774,67614,130183,7977.18
+flash_sale,Michoacan,1596,72540,11775,6338.02
+flash_sale,Morelos,11114,139747,171022,5679.08
+flash_sale,Nayarit,4592,98584,48864,1745.62
+flash_sale,Nuevo Leon,21463,205130,154782,16963.629999999997
+flash_sale,Puebla,16104,212772,118136,11080.85
+flash_sale,Quintana Roo,5564,35706,36860,8935.44
+flash_sale,San Luis Potosi,14103,78993,122248,17459.129999999997
+flash_sale,Sinaloa,12411,126403,98796,15060.39
+flash_sale,Tabasco,12059,86465,93774,10237.63
+flash_sale,Tamaulipas,6978,3045,70823,8015.37
+flash_sale,Tlaxcala,39564,181591,226991,26520.95
+flash_sale,Veracruz,9370,4516,56399,4898.13
+flash_sale,Yucatan,7815,69940,19222,8526.11
+flash_sale,Zacatecas,29688,245666,187522,19112.46
+holiday_special,Aguascalientes,24421,261526,233647,21839.260000000002
+holiday_special,Baja California,11164,85917,39509,7688.95
+holiday_special,Baja California Sur,7850,9604,76935,6221.09
+holiday_special,Campeche,16990,186214,68675,8861.86
+holiday_special,Chiapas,2707,96030,17767,6602.01
+holiday_special,Chihuahua,24552,192234,191210,16404.32
+holiday_special,Coahuila,15931,99805,275870,7998.59
+holiday_special,Colima,8679,162026,83209,15253.3
+holiday_special,Durango,17342,51995,90128,13054.390000000001
+holiday_special,Guanajuato,14658,62367,30915,10302.529999999999
+holiday_special,Guerrero,4843,60960,37802,6036.79
+holiday_special,Hidalgo,48610,346498,152459,34706.46
+holiday_special,Jalisco,9761,97112,75713,189.11
+holiday_special,Mexico,5507,79334,45099,3144.4
+holiday_special,Michoacan,7773,43203,50743,8133.62
+holiday_special,Morelos,13105,165173,96418,2480.1099999999997
+holiday_special,Nayarit,1218,58031,11429,288.46
+holiday_special,Nuevo Leon,9703,93023,129802,9029.380000000001
+holiday_special,Oaxaca,13205,138642,78598,572.6800000000001
+holiday_special,Puebla,3758,44191,32018,4339.45
+holiday_special,Queretaro,388,38378,61454,456.55
+holiday_special,Quintana Roo,17579,163557,78236,11634.75
+holiday_special,San Luis Potosi,10185,113245,85038,11335.89
+holiday_special,Sinaloa,3077,72042,3642,730.83
+holiday_special,Sonora,5227,50274,453,9242.35
+holiday_special,Tabasco,24214,135615,239158,17217.89
+holiday_special,Tamaulipas,9740,36708,7234,3677.67
+holiday_special,Tlaxcala,9798,69385,534,6504.29
+holiday_special,Veracruz,7083,103488,79188,14706.89
+holiday_special,Yucatan,12956,79062,35850,8072.34
+holiday_special,Zacatecas,5198,87351,92232,8147.17
+in-store_event,Aguascalientes,5568,15600,97183,8135.4
+in-store_event,Baja California,5209,113241,62898,14960.32
+in-store_event,Chihuahua,11663,96601,156210,2836.0299999999997
+in-store_event,Coahuila,913,104998,160775,14764.25
+in-store_event,Colima,16850,93381,123105,12722.34
+in-store_event,Durango,14228,89136,92014,2808.0
+in-store_event,Guanajuato,19140,150498,69245,16596.47
+in-store_event,Guerrero,10000,50885,69623,9775.08
+in-store_event,Jalisco,6494,104194,104024,11390.220000000001
+in-store_event,Michoacan,9159,55052,44387,3413.52
+in-store_event,Morelos,7169,154641,128030,11402.15
+in-store_event,Nayarit,6148,4995,29069,822.7
+in-store_event,Nuevo Leon,1408,46246,73592,1803.88
+in-store_event,Oaxaca,16029,122152,112299,3745.99
+in-store_event,Queretaro,1189,99272,196366,15248.09
+in-store_event,Quintana Roo,4061,60595,80292,11439.95
+in-store_event,San Luis Potosi,17660,129715,95349,7240.48
+in-store_event,Sinaloa,25777,242810,174416,10027.96
+in-store_event,Sonora,20189,176244,165175,20460.300000000003
+in-store_event,Tabasco,2135,37976,47770,4531.3
+in-store_event,Tamaulipas,6758,28404,18922,1219.59
+in-store_event,Tlaxcala,14688,130087,153327,9080.880000000001
+in-store_event,Veracruz,4319,24224,91628,3934.91
+in-store_event,Yucatan,2721,89072,23715,10706.11
+in-store_event,Zacatecas,7796,47360,28824,8501.4
+limited_time_offer,Aguascalientes,7712,46342,75374,3667.41
+limited_time_offer,Baja California,3133,11963,86580,2623.04
+limited_time_offer,Baja California Sur,10269,118657,136565,13361.27
+limited_time_offer,Chiapas,8806,81962,93159,10384.119999999999
+limited_time_offer,Chihuahua,15754,119474,42672,14263.6
+limited_time_offer,Coahuila,4153,42370,21436,3754.44
+limited_time_offer,Durango,12418,245567,181780,28533.27
+limited_time_offer,Guanajuato,7428,50701,82733,6084.389999999999
+limited_time_offer,Guerrero,9088,66345,79446,4517.06
+limited_time_offer,Hidalgo,20144,157605,142154,16778.34
+limited_time_offer,Jalisco,20440,143215,154669,18542.89
+limited_time_offer,Mexico,4001,44226,29150,7775.98
+limited_time_offer,Michoacan,35602,270263,382769,28436.7
+limited_time_offer,Morelos,22118,212345,208141,16603.22
+limited_time_offer,Oaxaca,15905,134641,123277,12085.43
+limited_time_offer,Puebla,7358,2072,52553,3195.61
+limited_time_offer,Queretaro,2421,61192,53764,5938.11
+limited_time_offer,Quintana Roo,6918,156554,60951,16668.34
+limited_time_offer,San Luis Potosi,5917,144975,60970,8830.81
+limited_time_offer,Sinaloa,31376,168666,70309,22827.68
+limited_time_offer,Sonora,11539,126606,124034,15295.31
+limited_time_offer,Tabasco,18071,15967,152240,3900.2599999999998
+limited_time_offer,Tamaulipas,18211,126051,123203,4517.58
+limited_time_offer,Tlaxcala,4711,75033,75688,4292.46
+limited_time_offer,Veracruz,11015,174356,161976,12563.49
+loyalty_rewards,Aguascalientes,5919,120582,166613,10406.789999999999
+loyalty_rewards,Campeche,7645,106364,84583,9552.91
+loyalty_rewards,Chiapas,8417,131611,18806,5516.299999999999
+loyalty_rewards,Chihuahua,6729,80275,71644,4694.53
+loyalty_rewards,Coahuila,13811,77002,147451,12858.14
+loyalty_rewards,Colima,353,32362,63787,3352.97
+loyalty_rewards,Guanajuato,4954,41148,42479,8049.5
+loyalty_rewards,Guerrero,15643,99768,82722,9576.630000000001
+loyalty_rewards,Hidalgo,14008,54881,118716,10324.82
+loyalty_rewards,Mexico,6535,144418,143116,3862.93
+loyalty_rewards,Michoacan,16016,158434,176742,15056.7
+loyalty_rewards,Morelos,13500,186142,80921,14063.02
+loyalty_rewards,Nayarit,7713,17495,74326,4828.76
+loyalty_rewards,Nuevo Leon,9045,59519,124678,9800.33
+loyalty_rewards,Puebla,1214,62954,78942,8245.92
+loyalty_rewards,Quintana Roo,5385,132426,93494,5083.08
+loyalty_rewards,San Luis Potosi,1284,16607,20925,2907.04
+loyalty_rewards,Sonora,1447,83002,41139,2394.43
+loyalty_rewards,Tabasco,28895,263807,215158,20017.07
+loyalty_rewards,Tlaxcala,29664,285203,294952,40909.71
+loyalty_rewards,Yucatan,5453,62917,88430,2744.39
+loyalty_rewards,Zacatecas,5765,16504,71285,7845.56
+new_product_launch,Aguascalientes,8907,53775,61386,6226.02
+new_product_launch,Baja California,6510,196049,31837,8409.119999999999
+new_product_launch,Baja California Sur,25438,169133,135355,15414.33
+new_product_launch,Campeche,12305,134447,146274,13605.25
+new_product_launch,Chihuahua,618,115546,91106,13822.779999999999
+new_product_launch,Coahuila,3037,103158,82461,18301.7
+new_product_launch,Durango,16320,335330,228391,10300.539999999999
+new_product_launch,Guanajuato,6320,42195,87180,7491.66
+new_product_launch,Guerrero,10595,51790,119459,13092.94
+new_product_launch,Hidalgo,4178,132690,106018,6801.59
+new_product_launch,Jalisco,6955,50604,82460,8475.17
+new_product_launch,Mexico,13008,32667,43372,10099.18
+new_product_launch,Michoacan,26535,348888,403274,22008.52
+new_product_launch,Morelos,8200,95966,57401,9062.849999999999
+new_product_launch,Nayarit,17581,205709,162959,14242.539999999999
+new_product_launch,Nuevo Leon,13241,68018,97672,20656.23
+new_product_launch,Oaxaca,9252,53823,80629,5996.57
+new_product_launch,Puebla,21343,157287,198429,25554.66
+new_product_launch,Queretaro,3621,24302,40122,4728.34
+new_product_launch,Quintana Roo,8740,21804,14287,9020.56
+new_product_launch,San Luis Potosi,3406,53684,32214,7780.77
+new_product_launch,Sinaloa,14956,19540,139398,8086.53
+new_product_launch,Sonora,4944,47589,73863,9362.73
+new_product_launch,Tamaulipas,21977,141549,284657,23820.129999999997
+new_product_launch,Tlaxcala,10459,87121,99818,13309.89
+new_product_launch,Yucatan,5118,13401,97900,5939.34
+online_advertising,Aguascalientes,5686,135937,92608,8644.36
+online_advertising,Baja California,14705,209684,139958,11224.570000000002
+online_advertising,Baja California Sur,6730,17664,5522,2695.74
+online_advertising,Campeche,7488,143955,132360,5543.27
+online_advertising,Chiapas,16312,161910,148011,19562.89
+online_advertising,Chihuahua,22208,149016,190186,14601.65
+online_advertising,Coahuila,19521,166663,104641,13225.52
+online_advertising,Colima,10420,112637,45019,19505.32
+online_advertising,Durango,4450,93801,42235,3580.47
+online_advertising,Guanajuato,33810,233564,293714,38487.7
+online_advertising,Guerrero,6260,1530,74125,4634.1
+online_advertising,Hidalgo,15207,209021,143215,14692.51
+online_advertising,Jalisco,8457,102131,49018,18242.36
+online_advertising,Mexico,1707,5526,75186,9422.73
+online_advertising,Morelos,15245,175712,155462,24126.58
+online_advertising,Nayarit,7663,20846,47715,7031.7
+online_advertising,Nuevo Leon,13142,243543,191035,14669.82
+online_advertising,Oaxaca,6685,9048,17203,590.65
+online_advertising,Puebla,7813,183620,130461,1679.07
+online_advertising,Queretaro,7414,54441,25165,9151.77
+online_advertising,Quintana Roo,9960,132974,137401,11183.279999999999
+online_advertising,San Luis Potosi,6867,95347,80065,6111.5
+online_advertising,Sinaloa,1069,56050,41896,3198.7
+online_advertising,Sonora,4661,52053,65385,2209.4
+online_advertising,Tabasco,15685,30498,73306,8926.6
+online_advertising,Tamaulipas,8886,4574,87456,555.23
+online_advertising,Tlaxcala,3626,55205,161119,13823.57
+online_advertising,Yucatan,20210,256577,155767,33266.229999999996
+online_advertising,Zacatecas,6205,51118,48045,3371.59
+referral_program,Aguascalientes,6633,3144,64119,4446.67
+referral_program,Baja California,1829,71770,36123,9174.69
+referral_program,Campeche,22041,248649,256510,32620.26
+referral_program,Chiapas,6940,97081,97432,6050.45
+referral_program,Chihuahua,7428,29117,51344,6188.19
+referral_program,Coahuila,6073,52991,1865,6220.39
+referral_program,Colima,7123,21608,55856,3079.84
+referral_program,Durango,8329,16331,39551,6095.7
+referral_program,Guanajuato,7217,113737,134393,2593.7599999999998
+referral_program,Guerrero,22301,222971,285465,18258.01
+referral_program,Hidalgo,24795,279159,311003,21751.879999999997
+referral_program,Mexico,18828,151957,147667,16606.129999999997
+referral_program,Michoacan,22238,282192,166439,25703.230000000003
+referral_program,Morelos,10486,169210,87912,17532.9
+referral_program,Nayarit,9180,133127,197127,6933.97
+referral_program,Nuevo Leon,13667,289439,146455,16992.37
+referral_program,Oaxaca,8327,629,5004,3333.22
+referral_program,Puebla,8512,76377,64844,8275.5
+referral_program,Queretaro,9545,78327,73317,2225.11
+referral_program,Quintana Roo,8152,13029,36344,2339.64
+referral_program,San Luis Potosi,3479,52337,25366,5637.86
+referral_program,Sinaloa,3357,53191,34240,1718.67
+referral_program,Sonora,13547,121714,105907,7801.12
+referral_program,Tabasco,9903,11675,52061,2252.75
+referral_program,Tamaulipas,8669,35900,51069,2399.39
+referral_program,Tlaxcala,9140,83942,67252,6256.19
+referral_program,Yucatan,7392,15016,58868,2048.08
+referral_program,Zacatecas,21585,121807,140118,20451.64
+social_media_campaign,Aguascalientes,18624,93825,184759,14783.460000000001
+social_media_campaign,Baja California Sur,14449,171297,133729,13891.06
+social_media_campaign,Campeche,1067,32199,75337,9427.14
+social_media_campaign,Chiapas,9785,75227,48594,7034.68
+social_media_campaign,Chihuahua,15137,79000,99239,12054.63
+social_media_campaign,Coahuila,3580,25641,83095,6309.7
+social_media_campaign,Durango,13345,124161,97718,11407.33
+social_media_campaign,Guanajuato,338,3230,80541,2168.97
+social_media_campaign,Guerrero,9300,118226,165398,18815.99
+social_media_campaign,Jalisco,8113,90300,10974,4071.64
+social_media_campaign,Mexico,13870,64876,64092,9377.44
+social_media_campaign,Michoacan,1715,92583,83605,1824.29
+social_media_campaign,Morelos,4203,6193,3396,3457.26
+social_media_campaign,Nayarit,16605,169140,124519,4465.43
+social_media_campaign,Nuevo Leon,7868,186812,159747,17198.8
+social_media_campaign,Oaxaca,7079,68575,86526,5649.19
+social_media_campaign,Puebla,6362,19440,14001,4353.05
+social_media_campaign,Queretaro,16855,147458,114538,12198.43
+social_media_campaign,Quintana Roo,24206,222345,149824,21601.269999999997
+social_media_campaign,Sinaloa,3615,35521,21221,7977.69
+social_media_campaign,Sonora,7926,105221,99980,8558.960000000001
+social_media_campaign,Tabasco,29280,86380,297167,21859.52
+social_media_campaign,Veracruz,14777,201540,168156,16265.75
+social_media_campaign,Yucatan,5021,43415,38984,982.35
+spring_deals,Aguascalientes,5884,45972,33280,9071.310000000001
+spring_deals,Baja California,6382,75192,162554,14523.81
+spring_deals,Baja California Sur,11107,146285,84620,11841.17
+spring_deals,Campeche,9456,15934,21763,9909.4
+spring_deals,Chiapas,9745,19013,12599,9492.8
+spring_deals,Colima,3726,116,73949,2049.33
+spring_deals,Durango,1421,21423,85014,1863.95
+spring_deals,Guanajuato,8777,76024,65797,1523.1
+spring_deals,Guerrero,5081,78800,165714,899.5899999999999
+spring_deals,Hidalgo,4033,147121,43317,13316.73
+spring_deals,Michoacan,5223,39185,145182,5925.28
+spring_deals,Nuevo Leon,2350,74661,5466,9178.09
+spring_deals,Oaxaca,8885,87129,111305,9667.52
+spring_deals,Queretaro,20205,110131,337191,27132.71
+spring_deals,Quintana Roo,24013,213592,261643,29623.23
+spring_deals,San Luis Potosi,2979,18608,72811,9496.57
+spring_deals,Sinaloa,10608,241278,93859,27149.539999999997
+spring_deals,Tlaxcala,3095,42715,44770,6703.42
+spring_deals,Veracruz,3700,90970,46962,4160.73
+spring_deals,Yucatan,17407,128983,164446,6730.82
+spring_deals,Zacatecas,15548,184111,224156,16660.57
+summer_sale_2021,Aguascalientes,9908,76347,2127,493.27
+summer_sale_2021,Baja California,4401,19310,3710,8435.03
+summer_sale_2021,Baja California Sur,27933,213833,142641,18951.6
+summer_sale_2021,Campeche,11070,148271,145665,10134.95
+summer_sale_2021,Chiapas,23611,151737,227733,26454.69
+summer_sale_2021,Chihuahua,5243,93674,8551,6241.98
+summer_sale_2021,Coahuila,21102,209799,103373,6530.43
+summer_sale_2021,Colima,4283,132467,137507,8153.84
+summer_sale_2021,Durango,16365,94507,43230,17057.85
+summer_sale_2021,Guanajuato,8105,56651,84343,3093.82
+summer_sale_2021,Guerrero,6331,63908,84292,4414.67
+summer_sale_2021,Hidalgo,5359,35322,83632,6652.12
+summer_sale_2021,Jalisco,8253,49543,37197,1860.38
+summer_sale_2021,Mexico,2390,78985,12025,1136.73
+summer_sale_2021,Michoacan,347,32453,39012,4891.91
+summer_sale_2021,Morelos,9997,54901,57124,12387.55
+summer_sale_2021,Nayarit,9543,77887,67995,1982.5
+summer_sale_2021,Nuevo Leon,8208,5072,24007,5056.87
+summer_sale_2021,Oaxaca,18356,13911,105550,10241.8
+summer_sale_2021,Queretaro,1180,19361,12258,7215.29
+summer_sale_2021,Quintana Roo,918,71268,60953,3582.49
+summer_sale_2021,San Luis Potosi,8548,87936,63684,10146.16
+summer_sale_2021,Sinaloa,5596,61171,45405,14725.759999999998
+summer_sale_2021,Sonora,23898,165625,125892,21433.350000000002
+summer_sale_2021,Tabasco,5260,85719,3245,5252.05
+summer_sale_2021,Tamaulipas,3206,20248,25602,6350.55
+summer_sale_2021,Tlaxcala,6593,69405,103630,13378.85
+summer_sale_2021,Veracruz,16566,168177,179906,20774.28
+summer_sale_2021,Yucatan,1715,87076,42254,5719.2
+summer_sale_2021,Zacatecas,23276,176139,63568,12733.91
+weekly_specials,Baja California,9000,195346,166245,17794.589999999997
+weekly_specials,Baja California Sur,6488,119712,38809,9842.89
+weekly_specials,Chihuahua,6428,125307,147701,10404.93
+weekly_specials,Coahuila,18972,123714,198236,27278.129999999997
+weekly_specials,Colima,14087,52572,149025,5262.19
+weekly_specials,Durango,4669,24259,56500,6087.04
+weekly_specials,Guanajuato,5384,58819,94653,7051.22
+weekly_specials,Guerrero,9751,4056,81485,5779.91
+weekly_specials,Jalisco,4448,75168,85190,6615.63
+weekly_specials,Mexico,11272,122725,25748,4056.87
+weekly_specials,Michoacan,2164,12721,60208,93.35
+weekly_specials,Morelos,10370,27573,156085,11233.210000000001
+weekly_specials,Nuevo Leon,6573,179060,144102,21543.74
+weekly_specials,Queretaro,7983,60415,69082,5958.3
+weekly_specials,Quintana Roo,9293,51622,55688,5562.34
+weekly_specials,San Luis Potosi,15009,198321,213022,26097.77
+weekly_specials,Sonora,1674,88755,50390,8978.86
+weekly_specials,Tabasco,1357,51430,22259,6268.81
+weekly_specials,Tamaulipas,541,21731,22957,4622.72
+weekly_specials,Veracruz,9534,92561,10709,7878.28
+weekly_specials,Yucatan,9916,129751,81946,8495.25
+weekly_specials,Zacatecas,15553,180470,136615,11471.64
+winter_clearance,Baja California,6170,87317,72608,155.58
+winter_clearance,Baja California Sur,6321,91826,23648,3831.85
+winter_clearance,Campeche,11146,119155,68672,10237.95
+winter_clearance,Coahuila,3585,25174,16379,9896.25
+winter_clearance,Colima,10052,151189,264423,5279.950000000001
+winter_clearance,Durango,15902,64261,271634,18495.64
+winter_clearance,Guerrero,6202,24497,92366,7511.41
+winter_clearance,Hidalgo,6336,77722,164522,14367.289999999999
+winter_clearance,Jalisco,13246,242448,171991,24530.5
+winter_clearance,Morelos,5039,42229,42976,7023.06
+winter_clearance,Nayarit,8685,83880,115690,10720.13
+winter_clearance,Nuevo Leon,1208,95357,83498,9959.9
+winter_clearance,Puebla,6957,90808,94080,2688.01
+winter_clearance,San Luis Potosi,373,17256,63747,7610.9
+winter_clearance,Sinaloa,14400,121722,87676,17800.71
+winter_clearance,Sonora,3262,51806,37518,4381.83
+winter_clearance,Tabasco,21156,254148,147365,28054.95
+winter_clearance,Tamaulipas,13665,86543,46360,12527.96
+winter_clearance,Tlaxcala,642,44728,4170,4345.1
+winter_clearance,Yucatan,5310,41146,38932,5103.53
+winter_clearance,Zacatecas,12245,201770,192755,12418.05
