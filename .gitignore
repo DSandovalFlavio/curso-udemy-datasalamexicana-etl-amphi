@@ -171,3 +171,6 @@ cython_debug/
 .pypirc
 
 output/
+project1/data
+project1/secretos
+project1/car_sales_data.csv
